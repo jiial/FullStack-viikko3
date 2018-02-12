@@ -1,3 +1,3 @@
 # FullStack-viikko3
 
-[Linkki sovellukseen](https://notebackend-sbhvtyryou.now.sh/)
+[Linkki sovellukseen](https://notebackend-wfhjnlbmga.now.sh/)
