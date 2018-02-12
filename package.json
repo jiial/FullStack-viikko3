@@ -1,0 +1,29 @@
+{
+  "name": "notebackend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiial/FullStack-viikko3.git"
+  },
+  "author": "jiial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiial/FullStack-viikko3/issues"
+  },
+  "homepage": "https://github.com/jiial/FullStack-viikko3#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
